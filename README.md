@@ -6,7 +6,7 @@
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
- <a href="https://www.instagram.com/gs__0605/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" style="width: 80px; height: 20px;"></a>
+ <a href="https://www.instagram.com/junxo_o/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" style="width: 80px; height: 20px;"></a>
 <a href="https://jun0321.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-F05032?style=for-the-badge&logo=tistory&logoColor=white" style="width: 80px; height: 20px;">
 </a>
     <br>
