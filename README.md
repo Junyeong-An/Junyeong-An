@@ -20,9 +20,4 @@
 제 이름은 안준영이고 개발자를 위한 개발 공부 중입니다!<br>
 <br>
 </p>
-<!--
-**Junyeong-An/Junyeong-An** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
