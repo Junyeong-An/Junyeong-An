@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" />
 </p>
 <br>
-
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
 <a href="https://velog.io/@jun0321" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" style="width: 80px; height: 20px;"></a>
