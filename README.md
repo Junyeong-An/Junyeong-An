@@ -8,7 +8,7 @@
 
 </a>
 <br><br>
-<Strong>📧Email📧</Strong><br>dev.jun0321@gmail.com<br><br>
+<Strong>📧Email📧</Strong><br>dev.jun0321@gmail.com<br>
 </p>
 <br>
 <p align="center">
