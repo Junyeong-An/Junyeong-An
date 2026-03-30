@@ -1,18 +1,14 @@
-<p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" />
-</p>
-<br>
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-<a href="https://velog.io/@jun0321" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" style="width: 80px; height: 20px;"></a>
+<div align="center">
 
-</a>
-<br><br>
-<Strong>📧Email📧</Strong><br>dev.jun0321@gmail.com<br>
-</p>
-<br>
-<p align="center">
-안녕하세요👐<br><br>
-    제 이름은 안준영이고 백엔드 개발자를 위한 개발 공부 중입니다!!<br><br>
-<br>
-</p>
+# 안녕하세요! 백엔드 개발에 관심이 많은 안준영입니다.
+
+꾸준히 기록하고, 더 나은 코드를 고민하며 성장하고 있습니다.
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jun0321)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.jun0321@gmail.com)
+
+</div>
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
